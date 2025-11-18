@@ -273,9 +273,3 @@ This project leverages the following state-of-the-art models and libraries:
 - **YAMNet** (Google) - Audio event classification
 - **TensorFlow & PyTorch** - Deep learning frameworks
 - **librosa** - Audio processing
-
----
-
-**Questions?** Open an issue or contact the project maintainers.
-
-**License**: Refer to LICENSE file for details.
