@@ -1,0 +1,13 @@
+NON-SPEECH BACKGROUND SOUND REPORT
+===================================
+
+Music: 0.799
+Musical instrument: 0.058
+Keyboard (musical): 0.049
+Organ: 0.047
+Silence: 0.044
+Piano: 0.029
+Electronic organ: 0.022
+Hammond organ: 0.020
+Electric piano: 0.019
+Inside, small room: 0.015
